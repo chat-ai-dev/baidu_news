@@ -44,8 +44,8 @@ jobs:
           type: 'zip'
           filename: '${{env.PLUGIN_NAME}}.zip'
           exclusions: '*.git* setup.py'
-          directory: '${{env.PLUGIN_NAME}}'
-          path: '.'
+          directory: '.'
+          path: '${{env.PLUGIN_NAME}}'
       - name: Upload release
         uses: ncipollo/release-action@v1.12.0
         with:
