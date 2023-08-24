@@ -1,7 +1,7 @@
 {
     "name": "Baidu News",
     "version": "0.0.5",
-    "description": "Get the latest news from Baidu rss",
+    "description": "获取最新百度新闻。可在聊天窗口搜索‘今日百度新闻’、‘百度新闻’等查看。",
     "author_name": "Kevin Zhang",
     "author_url": "https://mywebsite.me",
     "plugin_url": "https://github.com/KevinZhang19870314/baidu_news",
