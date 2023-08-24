@@ -1,6 +1,6 @@
 {
     "name": "Baidu News",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Get the latest news from Baidu rss",
     "author_name": "Kevin Zhang",
     "author_url": "https://mywebsite.me",
