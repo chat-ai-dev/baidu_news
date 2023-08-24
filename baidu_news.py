@@ -31,7 +31,9 @@ def list_to_markdown(input_list):
 
 @tool(return_direct=True)
 def get_latest_or_today_baidu_news(tool_input, bot):
-	"""Replies to "Latest news", "Baidu News", "时事新闻"，“最新新闻”, "百度新闻", "时事快览", "今天的新闻", "今日新闻" and similar questions. Input is always None."""
+	""" Get the latest baidu news.
+Replies to "Latest Baidu news", "Baidu News", "百度新闻", "今日百度新闻" and similar questions.
+Input is always None."""
 
 	all_items = []
 	news_urls = {
