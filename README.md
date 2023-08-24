@@ -1,4 +1,4 @@
-# My plugin
+# Baidu News
 
 Write here all the useful information about your plugin.
 

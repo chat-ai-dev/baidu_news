@@ -1,10 +1,10 @@
 {
-    "name": "My plugin",
+    "name": "Baidu News",
     "version": "0.0.1",
-    "description": "Description of my_plugin.",
-    "author_name": "Me",
+    "description": "Get the latest news from Baidu rss",
+    "author_name": "Kevin Zhang",
     "author_url": "https://mywebsite.me",
-    "plugin_url": "https://github.com/my_name/my_plugin",
-    "tags": "cat, template, example",
-    "thumb": "https://raw.githubusercontent.com/my_repo_path/my_plugin.png"
+    "plugin_url": "https://github.com/KevinZhang19870314/baidu_news",
+    "tags": "baidu, latest news",
+    "thumb": "https://raw.githubusercontent.com/my_repo_path/baidu_news.png"
 }
