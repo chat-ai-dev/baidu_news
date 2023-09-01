@@ -1,6 +1,6 @@
 {
     "name": "Baidu News",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "获取最新百度新闻。可在聊天窗口搜索‘今日百度新闻’、‘百度新闻’等查看。",
     "author_name": "Kevin Zhang",
     "author_url": "https://mywebsite.me",
